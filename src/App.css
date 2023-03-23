@@ -1,0 +1,20 @@
+*{
+  font-family: sans-serif;
+}
+.App{
+  text-align: center;
+  font-size: 2em;
+  color: rgb(172, 11, 11);
+}
+.header{
+  border: 2px solid indianred;
+  margin: 20px;
+  padding: 20px;
+}
+.pragraph{
+  color: aquamarine;
+  font-size: 1em;
+  border:3px solid violet;
+  margin: 10px;
+  border-radius: 15px;
+}
