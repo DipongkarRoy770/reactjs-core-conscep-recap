@@ -50,6 +50,7 @@ function Post(){
 function PostLoad(props){
   return(
     <div className='pragraph'>
+      <p>git push try again</p>
         <h4>title :{props.title}</h4>
         <p>body:{props.body}</p>
     </div>
